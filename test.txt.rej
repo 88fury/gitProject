@@ -1,0 +1,6 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -0 +0 @@
+-안녕
+\ No newline at end of file
++안녕 수정 저장 
+\ No newline at end of file
